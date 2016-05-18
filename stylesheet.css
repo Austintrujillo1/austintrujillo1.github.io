@@ -1,0 +1,69 @@
+H1 {
+	text-align: center;
+	color: #696969;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+        font-weight: 300;
+	font-size: xx-large;
+}
+
+H2 {
+	text-align: center;
+        color: #9a9a9a;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+        font-weight: 300;
+        font-size: large;
+	text-decoration: none;
+}
+
+H3 {
+        text-align: center;
+        color: #e1e1e1;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+        font-weight: 300;
+        font-size: small;
+}
+
+#Footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+A {
+	text-decoration: none;
+}
+
+#twitter {
+	color: #4099FF;
+}
+
+#Instagram {
+	color: #9F7249;
+}
+
+#Github {
+	color: #7EBBE4;
+}
+
+#Pinterest {
+	color: #cb2027;
+}
+
+#Etsy {
+	color: #F4651F;
+}
+
+#Linkedin {
+	color: #007bb5;
+}
+
+#Email {
+	color: #58DD6E;
+}
+
+#mainImage {
+	width: 250;
+	height: 250;
+}
+
+
